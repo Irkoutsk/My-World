@@ -2,17 +2,12 @@ body {
     font-family: "UnifrakturMaguntia", cursive;
 }
 
-a {
-    color: blue;
-    font-size: 30px;
-}
-
 p{
     color: brown;
 }
 
 #Menus {
-    background-color: bisque;
+    
 }
 
 .Menu1 {
@@ -41,7 +36,7 @@ nav {
     justify-content: space-between;
     align-items: center;
     width: 1200px;
-    margin: 15px auto 0 auto;
+    margin: auto;
 }
 
 div {
@@ -52,4 +47,10 @@ div {
 #Mot {
     background-color: cadetblue;
     width: 50%;
+}
+
+#BigM {
+    justify-content: center;
+    gap: 100px;
+    margin: 50px auto 50px auto;
 }
