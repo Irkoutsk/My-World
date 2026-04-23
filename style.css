@@ -11,6 +11,23 @@ p{
     color: brown;
 }
 
-#Menu {
+#Menus {
     background-color: aqua;
+}
+
+.Menu1 {
+    color: crimson;
+}
+
+.Menu2 {
+    color: burlywood;
+}
+
+.Menu3 {
+    color: black;
+    text-decoration: none;
+}
+
+.Menu4 {
+    color: green;
 }
