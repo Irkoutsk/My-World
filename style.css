@@ -41,7 +41,6 @@ nav {
 
 div {
     display: flex;
-    gap: 20px;
 }
 
 #Mot {
@@ -53,4 +52,19 @@ div {
     justify-content: center;
     gap: 100px;
     margin: 50px auto 50px auto;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 60px;
+}
+
+#bouton-cv {
+    background-color: deeppink;
+    font-size: 30px;
+    gap: 100px;
+    margin: auto;
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
 }
