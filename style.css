@@ -40,6 +40,8 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    width: 1200px;
+    margin: 15px auto 0 auto;
 }
 
 div {
